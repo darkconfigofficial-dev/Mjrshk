@@ -1,0 +1,8 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+__pycache__/
+upload_bots/
+inf/
